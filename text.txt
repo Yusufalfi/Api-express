@@ -1,0 +1,11 @@
+
+
+ ----- akun db monggo --- 
+username : yusufalfi91
+pw : RR4x4HYk356OKfMJ
+RR4x4HYk356OKfMJ
+
+alfi 
+KlOkZCLLsFcZgJ9b
+
+mongodb+srv://<username>:<password>@cluster0.uajt914.mongodb.net/?retryWrites=true&w=majority
